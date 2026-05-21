@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Dashboard</title>
+</head>
+
+<body>
+
+    <h1>Data Analysis System</h1>
+
+    <form
+        action="/upload"
+        method="POST"
+        enctype="multipart/form-data"
+    >
+
+        <input
+            type="file"
+            name="csvfile"
+            accept=".csv"
+            required
+        >
+
+        <button type="submit">
+            Upload CSV
+        </button>
+
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+patient_id,age,gender,treatment,response
+1,45,Male,DrugA,Improved
+2,52,Female,DrugB,Not Improved
+3,37,Male,DrugA,Improved
+4,60,Female,DrugC,Improved
+5,29,Male,DrugB,Not Improved
+6,41,Female,DrugA,Improved
+7,55,Male,DrugC,Improved
+8,33,Female,DrugB,Not Improved
+9,48,Male,DrugA,Improved
+10,62,Female,DrugC,Improved
+11,27,Male,DrugB,Not Improved
+12,50,Female,DrugA,Improved
+13,39,Male,DrugC,Improved
+14,58,Female,DrugB,Not Improved
+15,31,Male,DrugA,Improved
+16,46,Female,DrugC,Improved
+17,53,Male,DrugB,Not Improved
+18,35,Female,DrugA,Improved
+19,44,Male,DrugC,Improved
+20,61,Female,DrugB,Not Improved
+21,28,Male,DrugA,Improved
+22,49,Female,DrugC,Improved
+23,36,Male,DrugB,Not Improved
+24,57,Female,DrugA,Improved
+25,32,Male,DrugC,Improved
+26,47,Female,DrugB,Not Improved
+27,54,Male,DrugA,Improved
+28,38,Female,DrugC,Improved
+29,43,Male,DrugB,Not Improved
+30,59,Female,DrugA,Improved
+31,30,Male,DrugC,Improved
+32,45,Female,DrugB,Not Improved
+33,52,Male,DrugA,Improved
+34,34,Female,DrugC,Improved
+35,48,Male,DrugB,Not Improved
+36,63,Female,DrugA,Improved
+37,26,Male,DrugC,Improved
+38,51,Female,DrugB,Not Improved
+39,40,Male,DrugA,Improved
+40,56,Female,DrugC,Improved
+41,29,Male,DrugB,Not Improved
+42,46,Female,DrugA,Improved
+43,53,Male,DrugC,Improved
+44,37,Female,DrugB,Not Improved
+45,42,Male,DrugA,Improved
+46,60,Female,DrugC,Improved
+47,31,Male,DrugB,Not Improved
+48,49,Female,DrugA,Improved
+49,35,Male,DrugC,Improved
+50,58,Female,DrugB,Not Improved
+51,33,Male,DrugA,Improved
+52,44,Female,DrugC,Improved
+53,55,Male,DrugB,Not Improved
+54,39,Female,DrugA,Improved
+55,47,Male,DrugC,Improved
+56,62,Female,DrugB,Not Improved
+57,28,Male,DrugA,Improved
+58,50,Female,DrugC,Improved
+59,36,Male,DrugB,Not Improved
+60,57,Female,DrugA,Improved
+61,30,Male,DrugC,Improved
+62,45,Female,DrugB,Not Improved
+63,54,Male,DrugA,Improved
+64,38,Female,DrugC,Improved
+65,41,Male,DrugB,Not Improved
+66,59,Female,DrugA,Improved
+67,27,Male,DrugC,Improved
+68,48,Female,DrugB,Not Improved
+69,35,Male,DrugA,Improved
+70,61,Female,DrugC,Improved
+71,32,Male,DrugB,Not Improved
+72,46,Female,DrugA,Improved
+73,52,Male,DrugC,Improved
+74,39,Female,DrugB,Not Improved
+75,43,Male,DrugA,Improved
+76,60,Female,DrugC,Improved
+77,29,Male,DrugB,Not Improved
+78,51,Female,DrugA,Improved
+79,37,Male,DrugC,Improved
+80,56,Female,DrugB,Not Improved
+81,34,Male,DrugA,Improved
+82,47,Female,DrugC,Improved
+83,53,Male,DrugB,Not Improved
+84,40,Female,DrugA,Improved
+85,49,Male,DrugC,Improved
+86,63,Female,DrugB,Not Improved
+87,31,Male,DrugA,Improved
+88,45,Female,DrugC,Improved
+89,55,Male,DrugB,Not Improved
+90,38,Female,DrugA,Improved
+91,42,Male,DrugC,Improved
+92,58,Female,DrugB,Not Improved
+93,33,Male,DrugA,Improved
+94,50,Female,DrugC,Improved
+95,36,Male,DrugB,Not Improved
+96,57,Female,DrugA,Improved
+97,30,Male,DrugC,Improved
+98,46,Female,DrugB,Not Improved
+99,54,Male,DrugA,Improved
+100,39,Female,DrugC,Improved
